@@ -1,4 +1,7 @@
 #include <AVLIndex.h>
+#include <string>
+#include <algorithm>
+#include <iostream>
 
 class RevStr{
     string str;
