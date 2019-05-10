@@ -6,9 +6,6 @@ template <typename K, typename T>
 class AVLIndex{
 
     public:
-    Index(){
-        root = NULL;
-    }
     void add(K key, T object){
         root = add(root, key, object);
     }
