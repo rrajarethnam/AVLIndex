@@ -21,6 +21,7 @@ index.remove(1);
 ## Checking it out
 You can compile the test code in test.cpp using :
 c++ -g test.cpp
+### Running it
 ./a.out
 
 
