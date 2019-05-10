@@ -6,7 +6,7 @@
 using namespace std;
 
 template <typename K, typename T>
-class Index{
+class AVLIndex{
 
     public:
     Index(){
